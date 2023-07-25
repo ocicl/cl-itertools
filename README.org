@@ -1,0 +1,10 @@
+* cl-itertools
+
+Port of Python itertools lib to Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-itertools.git   |
+| commit  | 1c91d05  |
+| systems | cl-itertools |
+|---------+-------------------------------------------|
+
